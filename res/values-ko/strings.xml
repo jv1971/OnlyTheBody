@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">본문만</string>
+    <string name="navigation_drawer_open">열기 탐색 서랍</string>
+    <string name="navigation_drawer_close">가까운 탐색 서랍</string>
+    <string name="mnu_clear">분명 운동</string>
+    <string name="mnu_save">포스터를 저장</string>
+    <string name="mnu_share">공유</string>
+    <string name="mnu_counter">카운터</string>
+    <string name="mnu_website">웹사이트</string>
+    <string name="mnu_rate">속도 애플 리 케이 션</string>
+    <string name="mnu_about">에 대 한</string>
+    <string name="mnu_help">도움말</string>
+    <string name="mnu_timer">타이머</string>
+    <string name="mnu_mark">마크 운동</string>
+    <string name="share_title">모든 bodyweight 운동-안 드 로이드 애플 리 케이 션</string>
+    <string name="share_URL">https://play.google.com/store/apps/details?id=com.greenbotapps.onlythebody</string>
+    <string name="share_msg">공유 애플 리 케이 션!</string>
+    <string name="err_nointernet">인터넷 연결</string>
+    <string name="about_title">프로그래밍</string>
+    <string name="about_message">By Jack, 2014 - %1$d;\nWorkouts: %2$d;\nCode version: %3$d.</string>
+    <string name="about_ok">괜찮았던 것</string>
+    <string name="cancel">취소</string>
+    <string name="cmd1">시작</string>
+    <string name="cmd2">중지</string>
+    <string name="cmd3">리셋</string>
+    <string name="mark_lavel">현재 레벨을 표시</string>
+    <string name="a1">아직 시작에 모든 운동 준비가 있습니까?</string>
+    <string name="a2">확실한가요?</string>
+    <string name="a3">예</string>
+    <string name="a4">아 뇨</string>
+    <string name="search">검색</string>
+    <string name="search_hint">운동에 대 한 검색</string>
+    <string name="file_save">로 저장:</string>
+    <string name="file_save_error">오류 절약 포스터</string>
+    <string name="new_title">새로운 기능</string>
+    <string name="new_message">- à la guerre comme à la guerre;\n- Counter added;\n- Animation added;\n- UI improved;\n- You can save workouts image;\n- Navigation Drawer image added;\n- Workout counter in About dialog;</string>
+
+    <string-array name="level">
+        <item><![CDATA[<font color="#ffffff"> 아직 시작 되지</font>]]></item>
+        <item><![CDATA[<font color="#ff0000"> 레벨 1 일</font>]]></item>
+        <item><![CDATA[<font color="#ffff00"> 레벨 2 완료</font>]]></item>
+        <item><![CDATA[<font color="#00ff00"> 레벨 3 완료</font>]]></item>
+    </string-array>
+    <string-array name="workouts">
+        <item>WipeOut Workout</item>
+        <item>Confessor Workout</item>
+        <item>Phoenix Burn Workout</item>
+        <item>Heatwave Workout</item>
+        <item>Easy Daily Workout</item>
+        <item>Stretching</item>
+        <item>Wake up AND Make it happen</item>
+        <item>Express Workout</item>
+        <item>Ninja Workout</item>
+        <item>WallHugger Workout</item>
+        <item>Crunch Workout</item>
+        <item>2 minute workout</item>
+        <item>Mass Blast Workout</item>
+        <item>12-Count Burpee Workout</item>
+        <item>Tiger, Tiger Workout</item>
+        <item>1000 Points Workout</item>
+        <item>Crossfire Workout</item>
+        <item>Dynamic Pyramid Workout</item>
+        <item>Rocky Workout</item>
+        <item>Five Minute Plank Workout</item>
+        <item>Hercules Workout</item>
+        <item>Fast and Furious Workout</item>
+        <item>Terminator Workout</item>
+        <item>Jacks Workout</item>
+        <item>Walkers Workout</item>
+        <item>Airborne Workout</item>
+        <item>Epic Workout</item>
+        <item>Blade Runner Workout</item>
+        <item>Bookmark Workout</item>
+        <item>Pinner Workout</item>
+        <item>Bruce Lee Abs</item>
+        <item>Codex Workout</item>
+        <item>Die Hard Workout</item>
+        <item>Abs on Fire Workout</item>
+        <item>Uncharted Workout</item>
+        <item>Legday Workout</item>
+        <item>Moonbase Workout</item>
+        <item>Skyfall Workout</item>
+        <item>Diesel Workout</item>
+        <item>Borderline 2.0 Workout</item>
+        <item>Borderline Workout</item>
+        <item>Max Impact Workout</item>
+        <item>The Cake is A Lie</item>
+        <item>Loop Workout</item>
+        <item>Blaster Workout</item>
+        <item>Eliminator Workout</item>
+        <item>300 Workout</item>
+        <item>Predator Workout</item>
+        <item>Gravity Workout</item>
+        <item>Power Sprinter Workout</item>
+        <item>Highlander Workout</item>
+        <item>Squatter Workout</item>
+        <item>1and1 Workout</item>
+        <item>Hopper Workout</item>
+        <item>Origami Workout</item>
+        <item>Neo Workout</item>
+        <item>Core Fusion Workout</item>
+        <item>Gladiator Workout</item>
+        <item>Boxer Workout</item>
+        <item>Matrix Workout</item>
+        <item>Office Workout</item>
+        <item>Make Me a Sandwich</item>
+        <item>Gamer Workout</item>
+        <item>Assassin Workout</item>
+        <item>Supernova Workout</item>
+        <item>Riddick Workout</item>
+        <item>Spiderman Workout</item>
+        <item>Power Up Workout</item>
+        <item>Footballer Workout</item>
+        <item>I Aim To Misbehave</item>
+        <item>Batman Workout</item>
+        <item>Minecrafter Workout</item>
+        <item>Flash Workout</item>
+        <item>TV Workout</item>
+        <item>Come at me bro Workout</item>
+        <item>Arrow Workout</item>
+        <item>Thor Workout</item>
+        <item>Stormtrooper Workout</item>
+        <item>Batman [Bane Edition]</item>
+        <item>Wolverine Workout</item>
+        <item>Stay Awake Workout</item>
+        <item>Daily Burn Workout</item>
+        <item>Hard Core Workout</item>
+        <item>You Had Me at Bacon</item>
+        <item>Shifter Workout</item>
+        <item>Avenger Workout</item>
+        <item>Jedi Workout</item>
+        <item>Abs of Steel Workout</item>
+        <item>Hulk Workout</item>
+        <item>Hitter Workout</item>
+        <item>Run, you clever boy</item>
+        <item>Super Saiyan Workout</item>
+        <item>Dragonborn Workout</item>
+        <item>Pie Workout</item>
+        <item>Armor Abs Workout</item>
+        <item>Ironman Workout</item>
+        <item>Watch Your Six Workout</item>
+        <item>Toaster Workout</item>
+        <item>Ithilien Ranger Workout</item>
+        <item>Hunger Games Workout</item>
+        <item>Code of Abs Workout</item>
+        <item>Lannister Workout</item>
+        <item>Wonder Woman Workout</item>
+        <item>Aquaman Workout</item>
+        <item>GodMode Workout</item>
+        <item>Premium Rush</item>
+        <item>Guardsman Workout</item>
+        <item>Vikings Workout</item>
+        <item>Wired / Office Workout</item>
+        <item>Slayer Workout</item>
+        <item>Silver Surfer Workout</item>
+        <item>Unplugged Workout</item>
+        <item>Captain America Workout</item>
+        <item>24: Jack Bauer Workout</item>
+        <item>Archer Workout</item>
+        <item>FIFA workout</item>
+        <item>Remaker Workout</item>
+        <item>Grimm Workout</item>
+        <item>Pokemon Master Workout</item>
+        <item>Deadpool Workout</item>
+        <item>Rise And Shine Workout</item>
+        <item>RED workout</item>
+        <item>Sherlock Workout</item>
+        <item>Pixel Workout</item>
+        <item>Fight Club Workout</item>
+        <item>Pirates Workout</item>
+        <item>Rambo Workout</item>
+        <item>Inner Warrior Workout</item>
+        <item>Amazing Spider-Man Workout</item>
+        <item>Microwave Workout</item>
+        <item>Cowboy Workout</item>
+        <item>Power Abs Workout</item>
+        <item>Black Widow Workout</item>
+        <item>Link Workout</item>
+        <item>Expendable Workout</item>
+        <item>Firefighter Workout</item>
+        <item>Respawn Workout</item>
+        <item>REX Workout</item>
+        <item>Superman Workout</item>
+        <item>Hurry Up and Bag It!</item>
+        <item>Lower Back Workout</item>
+        <item>Total Abs Workout</item>
+        <item>Altair Workout</item>
+        <item>Witcher Workout</item>
+        <item>Spartacus Workout</item>
+        <item>Pre-Workout Warm-Up</item>
+        <item>Ronin Workout</item>
+        <item>Supergirl Workout</item>
+        <item>Fullmetal Workout</item>
+        <item>2 Minute Abs</item>
+        <item>Navy SEAL Workout</item>
+        <item>Star Trek Workout</item>
+        <item>Knee Workout</item>
+        <item>Fit Mom Workout</item>
+        <item>Timelord Workout</item>
+        <item>Lara Croft Workout</item>
+        <item>Survey Corps Workout</item>
+        <item>Batgirl Workout</item>
+        <item>Kratos Workout</item>
+        <item>Dauntless Workout</item>
+        <item>BackUp Workout</item>
+        <item>Dexter Workout</item>
+        <item>Back in Action Workout</item>
+        <item>Sofa Workout</item>
+        <item>Energizer Workout</item>
+        <item>180-Action Workout</item>
+        <item>Catwoman Workout</item>
+        <item>Stairs Workout</item>
+        <item>Cardio Jump Workout</item>
+        <item>Towel Workout</item>
+        <item>Sonic Workout</item>
+        <item>Nightwing Workout</item>
+        <item>Hold My Beer Workout</item>
+        <item>Six oClock Workout</item>
+        <item>Star-Lord Workout</item>
+        <item>Avatar Workout</item>
+        <item>Skier Workout</item>
+        <item>Adventure Time Workout</item>
+        <item>Banshee Workout</item>
+        <item>Xena Workout</item>
+        <item>Cardio Rock Workout</item>
+        <item>Rocky Abs Workout</item>
+        <item>Robin Workout</item>
+        <item>Titania Workout</item>
+        <item>Fremen Workout</item>
+        <item>Parkour Workout</item>
+        <item>Mulan Workout</item>
+        <item>Deathstroke Workout</item>
+        <item>Superplank Workout</item>
+        <item>Fantastic 4 Workout</item>
+        <item>Korra Workout</item>
+        <item>Sub-Zero Workout</item>
+        <item>The Great Stretch</item>
+        <item>Movie Night Workout</item>
+        <item>Starbuck Workout</item>
+        <item>Street Fighter Workout</item>
+        <item>Joker Workout</item>
+        <item>Push Squat Repeat</item>
+        <item>Conan Workout</item>
+        <item>Buffy Workout</item>
+        <item>Black Canary Workout</item>
+        <item>Bourne Workout</item>
+        <item>Shieldmaiden Workout</item>
+        <item>Daredevil Workout</item>
+        <item>G.I. Jane Workout</item>
+        <item>Master Chief Workout</item>
+        <item>Pillow Fight Workout</item>
+        <item>Mockingjay Workout</item>
+        <item>Fighters Warmup</item>
+        <item>Solid Snake Workout</item>
+        <item>Naruto Workout</item>
+        <item>SAO Survivor Workout</item>
+        <item>Jurassic Workout</item>
+        <item>Fighter\'s Stretching</item>
+        <item>Super Mario Workout</item>
+        <item>inFamous Workout</item>
+        <item>Super Mom Workout</item>
+        <item>Kicker Workout</item>
+        <item>Lost Girl Workout</item>
+        <item>Mad Max Workout</item>
+        <item>Zombie Survival Workout</item>
+        <item>Titan Workout</item>
+        <item>Sarah Connor Workout</item>
+        <item>Berserk Workout</item>
+        <item>Green Lantern Workout</item>
+        <item>Power 10 Workout</item>
+        <item>Power 20 Workout</item>
+        <item>Captain Marvel Workout</item>
+        <item>Silver Workout</item>
+        <item>Volleyball Pro Workout</item>
+        <item>Red Sonja Workout</item>
+        <item>PT Pyramid Workout</item>
+        <item>Winter Soldier Workout</item>
+        <item>Standing Abs Workouts</item>
+        <item>Army of Two Workout</item>
+        <item>Posture Workout</item>
+        <item>Man Down Workout</item>
+        <item>Ranger Workout</item>
+        <item>Equalizer Workout</item>
+        <item>Amazon Workout</item>
+        <item>Guardian Workout</item>
+        <item>Valkyrie Workout</item>
+        <item>Transformer Workout</item>
+        <item>Ultimate Fighter Workout</item>
+        <item>Shepard Workout</item>
+        <item>Mermaid Workout</item>
+        <item>Primal Workout</item>
+        <item>Maximus Workout</item>
+        <item>Infinity Workout</item>
+        <item>River Workout</item>
+        <item>Abs Unlocked Workout</item>
+        <item>Odin Workout</item>
+        <item>Unbreakable Workout</item>
+        <item>Golem Workout</item>
+        <item>Combo Fighter Workout</item>
+        <item>Frost Workout</item>
+        <item>Black Panther Workout</item>
+        <item>Kickboxer Workout</item>
+        <item>Dante Workout</item>
+        <item>Selene Workout</item>
+        <item>Cheetara Workout</item>
+        <item>Night\'s Watch Workout</item>
+        <item>Nikita Workout</item>
+    </string-array>
+
+</resources>

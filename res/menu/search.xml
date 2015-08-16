@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.greenbotapps.onlythebody.MainActivity" >
+    <item
+        android:id="@+id/search"
+        android:actionViewClass="android.widget.SearchView"
+        android:icon="@android:drawable/ic_menu_search"
+        android:showAsAction="collapseActionView|ifRoom"
+        android:title="@string/search"/>
+    <item
+        android:id="@+id/action_clear"
+        android:showAsAction="collapseActionView|ifRoom"
+        android:icon="@drawable/ic_clear"
+        android:title="@string/mnu_clear"/>
+
+</menu>
